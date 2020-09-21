@@ -1,0 +1,94 @@
+[
+    { "model": "api.ranking", "pk": 1, "fields": { "origin_id": 626907, "distinct": 1, "rank": 1 } }, { "model": "api.ranking", "pk": 2, "fields": { "origin_id": 662774, "distinct": 1, "rank": 2 } }, { "model": "api.ranking", "pk": 3, "fields": { "origin_id": 747269, "distinct": 1, "rank": 3 } }, { "model": "api.ranking", "pk": 4, "fields": { "origin_id": 738143, "distinct": 1, "rank": 4 } }, { "model": "api.ranking", "pk": 5, "fields": { "origin_id": 670143, "distinct": 1, "rank": 5 } }, { "model": "api.ranking", "pk": 6, "fields": { "origin_id": 749639, "distinct": 1, "rank": 6 } }, { "model": "api.ranking", "pk": 7, "fields": { "origin_id": 728015, "distinct": 1, "rank": 7 } }, { "model": "api.ranking", "pk": 8, "fields": { "origin_id": 738694, "distinct": 1, "rank": 8 } }, { "model": "api.ranking", "pk": 9, "fields": { "origin_id": 701535, "distinct": 1, "rank": 9 } }, { "model": "api.ranking", "pk": 10, "fields": { "origin_id": 749055, "distinct": 1, "rank": 10 } },
+    { "model": "api.ranking", "pk": 11, "fields": { "origin_id": 51583336, "distinct": 2, "rank": 1 } }, { "model": "api.ranking", "pk": 12, "fields": { "origin_id": 49866676, "distinct": 2, "rank": 2 } }, { "model": "api.ranking", "pk": 13, "fields": { "origin_id": 50730649, "distinct": 2, "rank": 3 } }, { "model": "api.ranking", "pk": 14, "fields": { "origin_id": 54177223, "distinct": 2, "rank": 4 } }, { "model": "api.ranking", "pk": 15, "fields": { "origin_id": 53528260, "distinct": 2, "rank": 5 } }, { "model": "api.ranking", "pk": 16, "fields": { "origin_id": 50465822, "distinct": 2, "rank": 6 } }, { "model": "api.ranking", "pk": 17, "fields": { "origin_id": 55602678, "distinct": 2, "rank": 7 } }, { "model": "api.ranking", "pk": 18, "fields": { "origin_id": 54686463, "distinct": 2, "rank": 8 } }, { "model": "api.ranking", "pk": 19, "fields": { "origin_id": 53526936, "distinct": 2, "rank": 9 } }, { "model": "api.ranking", "pk": 20, "fields": { "origin_id": 55624074, "distinct": 2, "rank": 10 } },
+    {
+        "model": "api.ranking",
+        "pk": 21,
+        "fields": {
+            "origin_id": 1395,
+            "distinct": 3,
+            "rank": 1
+        }
+    },
+    {
+        "model": "api.ranking",
+        "pk": 22,
+        "fields": {
+            "origin_id": 1943,
+            "distinct": 3,
+            "rank": 2
+        }
+    },
+    {
+        "model": "api.ranking",
+        "pk": 23,
+        "fields": {
+            "origin_id": 1459,
+            "distinct": 3,
+            "rank": 3
+        }
+    },
+    {
+        "model": "api.ranking",
+        "pk": 24,
+        "fields": {
+            "origin_id": 1338,
+            "distinct": 3,
+            "rank": 4
+        }
+    },
+    {
+        "model": "api.ranking",
+        "pk": 25,
+        "fields": {
+            "origin_id": 2034,
+            "distinct": 3,
+            "rank": 5
+        }
+    },
+    {
+        "model": "api.ranking",
+        "pk": 26,
+        "fields": {
+            "origin_id": 1369,
+            "distinct": 3,
+            "rank": 6
+        }
+    },
+    {
+        "model": "api.ranking",
+        "pk": 27,
+        "fields": {
+            "origin_id": 1705,
+            "distinct": 3,
+            "rank": 7
+        }
+    },
+    {
+        "model": "api.ranking",
+        "pk": 28,
+        "fields": {
+            "origin_id": 1933,
+            "distinct": 3,
+            "rank": 8
+        }
+    },
+    {
+        "model": "api.ranking",
+        "pk": 29,
+        "fields": {
+            "origin_id": 1519,
+            "distinct": 3,
+            "rank": 9
+        }
+    },
+    {
+        "model": "api.ranking",
+        "pk": 30,
+        "fields": {
+            "origin_id": 1026,
+            "distinct": 3,
+            "rank": 10
+        }
+    }
+]
